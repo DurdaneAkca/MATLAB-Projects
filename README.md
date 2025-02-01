@@ -1,4 +1,4 @@
-************************************* MATLAB PROJECTS *************************************
+-------------------------------**MATLAB PROJECTS**-------------------------------
 
 Bu repoda Matlab ile yapılan çalışmalar bulunmaktadır. 
 
